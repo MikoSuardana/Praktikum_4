@@ -12,7 +12,7 @@ public class Swalayan {
     boolean NindiBlokir = false;
     boolean NandoBlokir = false;
         
-        //Perupalangan tanapa henti (infinite loop) akan terus berjalan selama belum dihentikan
+        //Perulangan tanapa henti (infinite loop) akan terus berjalan selama belum dihentikan
         while(true){
             System.out.println("[Masukkan nomor ATM anda:]");
             nomorATM = input.nextLine(); //Memasukkan no atm dan menyimpan inputan ke variabel nomorATM
